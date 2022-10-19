@@ -1,0 +1,7 @@
+6
+26C:\Users\PC\src\ThreeJS\js133094774108021707 1
+27C:\Users\PC\src\ThreeJS\css133094762964910313 1
+34C:\Users\PC\src\ThreeJS\index.html133106788947965418 0
+42C:\Users\PC\src\ThreeJS\js\three.module.js133094762248945112 0
+35C:\Users\PC\src\ThreeJS\js\three.js133094762215080627 0
+36C:\Users\PC\src\ThreeJS\css\main.css133094760389326832 0
